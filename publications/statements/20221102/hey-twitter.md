@@ -1,5 +1,5 @@
 # Hey Twitter
-### Statement re: unreasonable account lockout.
+### Statement re: reasonable account lockout.
 
 As of recently, Twitter Personnel not for the [first](https://twitter.com/k3vk4/status/1115207371243044865), [second](https://twitter.com/k3vk4/status/1123000144666988544) but [3rd time](screenshot_1.png) locked my account down for [my behavior on the platform](screenshot_2.png). 
 
